@@ -1,4 +1,4 @@
-# Introduction
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Introduction
 - I'm Soshi Kakio.
 - I'm a Osaka University student.
 - I'm a member of [WaniHackase](https://wanictf.org/about/)
