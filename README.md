@@ -6,8 +6,8 @@
 - I'm a member of [WaniHackase](https://wanictf.org/about/)
 ## Booth
 - https://kakishop.booth.pm/
-- Hologram Shader for VRChat
-  - ![](./HologramShader.gif)
+### Hologram Shader for VRChat (200 yen)
+  ![](./HologramShader.gif)
 
 # Stats
 ![github-readme-stats](https://github-readme-stats-kaki.vercel.app/api/?username=kaki005&count_private=true)
