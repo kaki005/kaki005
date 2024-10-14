@@ -4,9 +4,8 @@
 - School: Osaka University
 - Research: DataMining, [Sakurai Lab](https://www.dm.sanken.osaka-u.ac.jp/)
 - I'm a member of [WaniHackase](https://wanictf.org/about/)
-- https://kakishop.booth.pm/
 # Portfolio
-## Hologram Shader for VRChat (200 yen)
+## Hologram Shader for VRChat (200 yen) (Click image!!)
 <a href="https://kakishop.booth.pm/items/2338751"><img src="./HologramShader/HologramShader.gif"/></a>
 ## 阪大単位計算時間割アプリ
 https://kaki005.github.io/React-TimeTableSoftware/
